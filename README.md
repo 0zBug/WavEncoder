@@ -10,3 +10,5 @@ end
 
 writefile("wave.wav", EncodeWav(Samples, 1, 256, 16))
 ```
+# Output
+https://github.com/0zBug/WavEncoder/blob/main/wave.wav?raw=true
